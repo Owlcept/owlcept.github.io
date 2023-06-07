@@ -1,5 +1,3 @@
-import anime from 'animejs';
-
 function reveal(){
   var items = document.querySelectorAll(
   /* This is for common CSS animations */
