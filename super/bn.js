@@ -1,4 +1,4 @@
-<script>
+<script  onload="anima()" src = 'https://cdnjs.cloudflare.com/ajax/libs/animejs/3.2.1/anime.min.js'>
 
 function reveal(){
   var items = document.querySelectorAll(
@@ -37,5 +37,3 @@ function cc(el){
 }
 
 </script>
-
-<script onload="anima()" src = 'https://cdnjs.cloudflare.com/ajax/libs/animejs/3.2.1/anime.min.js'></script>
