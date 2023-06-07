@@ -33,3 +33,4 @@ function cc(el){
     easing: 'easeInOutSine'
   });
 }
+anima()
