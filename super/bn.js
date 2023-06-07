@@ -1,4 +1,4 @@
-import anime from './animejs'
+import anime from 'animejs'
 
 function reveal(){
   var items = document.querySelectorAll(
